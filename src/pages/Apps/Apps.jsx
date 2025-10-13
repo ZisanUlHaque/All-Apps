@@ -1,0 +1,23 @@
+import React, { Suspense } from "react";
+import App from "../App/App";
+
+const Apps = ({ data }) => {
+  return (
+    <div>
+      <div className="text-center mt-10 mx-auto mb-10">
+        <h1 className="text-4xl font-bold">Trending Apps</h1>
+        <p>Explore All Trending Apps on the Market developed by us</p>
+
+        <Suspense fallback={<span>loading.....</span>}>
+          <div className='grid grid-cols-1 md:grid-cols-4 gap-10 mb-10 mt-5 max-w-7xl mx-auto'>
+            {data.map((singleApp) => (
+              <App key={singleApp.id} singleApp={singleApp}></App>
+            ))}
+          </div>
+        </Suspense>
+      </div>
+    </div>
+  );
+};
+
+export default Apps;

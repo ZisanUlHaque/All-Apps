@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://i.ibb.co.com/LXDVyB3y/cb65e80c61f2e534ca47d11cd78fc5fd.jpg",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Listen to millions of songs, podcasts, and playlists for free. Stream and share music you love.",
+    "size": 54,
+    "reviews": 31500000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 21100000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tMLCHTZ6/d29bf8695ef463592751391ce5bff134.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 2,
+    "description": "Share moments, chat with friends, and explore stories from around the world with Snapchat.",
+    "size": 78,
+    "reviews": 33000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 20000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5hkJx18F/b83d053902adaaa700395ce0cd102dec.jpg",
+    "title": "Instagram",
+    "companyName": "Instagram",
+    "id": 3,
+    "description": "Capture and share the world’s moments. Connect with friends and discover new content every day.",
+    "size": 64,
+    "reviews": 155000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4500000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 121000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5hwtCYKb/596d74fed827cf406cbd2a4f0d8f00b2.jpg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 4,
+    "description": "Fast, secure, and powerful messaging app. Share large files and enjoy privacy-focused communication.",
+    "size": 41,
+    "reviews": 12000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 7500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5xgfgypH/1daf5b470804903c7fd44175e472aac9.jpg",
+    "title": "Duolingo: Language Lessons",
+    "companyName": "Duolingo",
+    "id": 5,
+    "description": "Learn languages for free with fun lessons and interactive exercises in over 30 languages.",
+    "size": 35,
+    "reviews": 13000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 9400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/CpP5LQ05/156254cda1120f9204f7a08238b81721.jpg",
+    "title": "Canva: Design, Photo & Video",
+    "companyName": "Canva",
+    "id": 6,
+    "description": "Create beautiful designs, presentations, and videos effortlessly with Canva’s drag-and-drop tools.",
+    "size": 56,
+    "reviews": 12000000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 9300000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hRfXdws2/7e34d649fea4c0a69a59d8857c7bd63f.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 7,
+    "description": "Watch your favorite TV shows, movies, and documentaries from anywhere, anytime.",
+    "size": 98,
+    "reviews": 14000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 7400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/V0SKTv3y/a8373b784593f4eafe2e69b0f519a594.jpg",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 8,
+    "description": "Watch and create short videos, follow trends, and express your creativity in a global community.",
+    "size": 90,
+    "reviews": 57000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 38500000 }
+    ]
+  }
+]

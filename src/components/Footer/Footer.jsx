@@ -23,8 +23,7 @@ const Footer = () => {
       <footer className="footer sm:footer-horizontal footer-center bg-[#001931] text-white p-4 mb-">
         <aside>
           <p>
-            Copyright © {new Date().getFullYear()} - All right reserved by ACME
-            Industries Ltd
+            Copyright © {new Date().getFullYear()} - All right reserved by ZeroThree
           </p>
         </aside>
       </footer>
