@@ -4,37 +4,35 @@ import Home from "../pages/Home/Home";
 import Error from "../pages/Error/Error";
 import AllApps from "../pages/AllApps/AllApps";
 import AppDetails from "../pages/AppDetails/AppDetails";
-
-
+import InstallApp from "../pages/InstallApp/InstallApp";
 
 export const router = createBrowserRouter([
   {
     path: "/",
     Component: Root,
-    errorElement:<Error></Error>,
+    errorElement: <Error />,
     children: [
-        {
-            index: true,
-            loader: () => fetch('homeData.json'),
-            path: '/',
-            Component: Home
-        },
-        {
-          path: '/apps',
-          loader: () => fetch('allApp.json'),
-          Component: AllApps
-        },
-        {
-          path:'/appDetails/:id',
-          loader: () => fetch('./allApp.json'),
-          Component: AppDetails
-        },
-        {
-          path:'/apps/appDetails/:id',
-          loader: () => fetch('./allApp.json'),
-          Component: AppDetails
-        }
-    ]
+      {
+        index: true,
+        loader: () => fetch("/homeData.json").then(res => res.json()),
+        Component: Home,
+      },
+      {
+        path: "/apps",
+        loader: () => fetch("/allApp.json").then(res => res.json()),
+        Component: AllApps,
+      },
+      {
+        path: "/appDetails/:id",
+        loader: () => fetch("/allApp.json").then(res => res.json()),
+        Component: AppDetails,
+      },
+      {
+        path: "/installation",
+        loader: () => fetch("/allApp.json").then(res => res.json()),
+        Component: InstallApp,
+      },
+      // Remove duplicate route to avoid conflicts
+    ],
   },
 ]);
-

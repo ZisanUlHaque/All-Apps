@@ -3,7 +3,9 @@ import { useLoaderData } from 'react-router';
 import AllAppData from '../AllAppData/AllAppData';
 
 const AllApps = () => {
-    const data = useLoaderData();
+    const data = useLoaderData([]);
+
+    
 
     return (
         <div>

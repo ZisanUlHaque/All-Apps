@@ -1,15 +1,44 @@
 import { CircleX, Menu, Github } from "lucide-react";
 import logo from "./assets/logo.png";
-import { Link } from "react-router";
+import { Link, useLocation } from "react-router";
 
 const Navbar = () => {
+  const location = useLocation();
+  const currentPath = location.pathname;
   const Links = (
     <>
       <Link to="/">
-        <li className="m-2">Home</li>
+        <li
+          className={`m-2 ${
+            currentPath === "/"
+              ? "text-[#7E3AF2] underline font-semibold"
+              : "text-black hover:text-[#7E3AF2]"
+          }`}
+        >
+          Home
+        </li>
       </Link>
       <Link to="/apps">
-        <li className="m-2">Apps</li>
+        <li
+          className={`m-2 ${
+            currentPath === "/apps"
+              ? "text-[#7E3AF2] underline font-semibold"
+              : "text-black hover:text-[#7E3AF2]"
+          }`}
+        >
+          Apps
+        </li>
+      </Link>
+      <Link to="/installation">
+        <li
+          className={`m-2 ${
+            currentPath === "/installation"
+              ? "text-[#7E3AF2] underline font-semibold"
+              : "text-black hover:text-[#7E3AF2]"
+          }`}
+        >
+          Installation
+        </li>
       </Link>
     </>
   );
@@ -41,13 +70,13 @@ const Navbar = () => {
             {Links}
           </ul>
         </div>
-        <Link to='/'>
-                <a className="flex items-center">
-          <img src={logo} alt="Logo" className="w-10 h-10" />
-          <h3 className="ml-2 text-2xl font-semibold text-[#632EE3]">
-            ZeroThree
-          </h3>
-        </a>
+        <Link to="/">
+          <a className="flex items-center">
+            <img src={logo} alt="Logo" className="w-10 h-10" />
+            <h3 className="ml-2 text-2xl font-semibold text-[#632EE3]">
+              ZeroThree
+            </h3>
+          </a>
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
@@ -56,7 +85,7 @@ const Navbar = () => {
       <div className="navbar-end ">
         <a
           href="https://github.com/ZisanUlHaque"
-          className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] p-3 rounded-xl"
+          className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] p-3 rounded-xl text-white"
         >
           <Github /> Contribute
         </a>

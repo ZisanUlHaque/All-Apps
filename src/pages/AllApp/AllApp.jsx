@@ -12,7 +12,7 @@ const AllApp = ({oneApp}) => {
         <img
           src={image}
           alt=""
-          className="w-[300px] h-[280px] object-cover p-5"
+          className="w-[300px] h-[280px] object-cover p-5 rounded-3xl"
         />
       </figure>
       <div className="pt-2 pb-3">

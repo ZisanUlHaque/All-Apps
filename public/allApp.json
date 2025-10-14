@@ -4,7 +4,7 @@
     "title": "Spotify: Music and Podcasts",
     "companyName": "Spotify AB",
     "id": 1,
-    "description": "Listen to millions of songs, podcasts, and playlists for free. Stream and share music you love.",
+    "description": "Listen to millions of songs, podcasts, and playlists for free. Stream and share music you love. Discover new artists, follow your favorite creators, and build custom playlists that suit every mood or occasion. Whether you're working out, relaxing, or commuting, Spotify offers music to match your vibe. Explore curated playlists, trending charts, and personalized recommendations. Switch between devices seamlessly and enjoy high-quality audio anytime, anywhere. Free users can access shuffle play, while premium subscribers enjoy ad-free listening, offline downloads, and unlimited skips. Spotify redefines how you experience audio entertainment, putting a world of sound right at your fingertips.",
     "size": 54,
     "reviews": 31500000,
     "ratingAvg": 4.5,
@@ -22,7 +22,7 @@
     "title": "Snapchat",
     "companyName": "Snap Inc",
     "id": 2,
-    "description": "Share moments, chat with friends, and explore stories from around the world with Snapchat.",
+    "description": "Listen to millions of songs, podcasts, and playlists for free. Stream and share music you love. Discover new artists, follow your favorite creators, and build custom playlists that suit every mood or occasion. Whether you're working out, relaxing, or commuting, Spotify offers music to match your vibe. Explore curated playlists, trending charts, and personalized recommendations. Switch between devices seamlessly and enjoy high-quality audio anytime, anywhere. Free users can access shuffle play, while premium subscribers enjoy ad-free listening, offline downloads, and unlimited skips. Spotify redefines how you experience audio entertainment, putting a world of sound right at your fingertips.",
     "size": 78,
     "reviews": 33000000,
     "ratingAvg": 4.2,
@@ -145,7 +145,7 @@
   },
   {
     "id": 9,
-    "image": "https://play-lh.googleusercontent.com/x7aWykkM4b2jJKXx1ceG2z7QF3p5HbX3bQCY2fVn05oPpJws4H_lIo4uJPQTBs_jIQ=w480-h960",
+    "image": "https://i.ibb.co.com/F4gK3LhN/451fa2c426253451e03a927275927f7f.jpg",
     "title": "InspireBoard",
     "companyName": "Creative Hive",
     "description": "Explore and save creative ideas, DIY projects, recipes, and inspirations daily.",
@@ -163,7 +163,7 @@
   },
   {
     "id": 10,
-    "image": "https://play-lh.googleusercontent.com/CFKozfH8xB5PKpITyP5Uv2iQmMl4-3kS9lreIE6i3ecL6pbx3M4t0QhA1mD-MZ5Tqg=w480-h960",
+    "image": "https://i.ibb.co.com/HfDxgjW9/unnamed-10.webp",
     "title": "MeetFlow",
     "companyName": "Zoom Innovations",
     "description": "Host video calls, chat with teams, and collaborate seamlessly on projects.",
@@ -181,7 +181,7 @@
   },
   {
     "id": 11,
-    "image": "https://play-lh.googleusercontent.com/ptTQvLqB0qT_KNsybQWHPiAep0nbI2v6uIgjxBzAS60eZBPlLBv7P5VUsD2q8UeN3cU=w480-h960",
+    "image": "https://i.ibb.co.com/hh6XBxX/download-4.png",
     "title": "Designify",
     "companyName": "Canva Labs",
     "description": "Create stunning graphics, videos, and social media posts with ease.",
@@ -199,7 +199,7 @@
   },
   {
     "id": 12,
-    "image": "https://play-lh.googleusercontent.com/_zy8H07s5sb9pjzZqk7R6AIoOnDls5l31RtFXxQeK80nBu6-Qh1U_MVnpvblTnLOuA=w480-h960",
+    "image": "https://i.ibb.co.com/zVgHpzzz/download-5.png",
     "title": "ChatWave",
     "companyName": "Telecom Labs",
     "description": "Secure messaging with fast file sharing and large groups.",
@@ -217,7 +217,7 @@
   },
   {
     "id": 13,
-    "image": "https://play-lh.googleusercontent.com/BG7An_m4dTpiPrjr03TrGQJ7oOAJfJXKejHgZKkE9Ntz3X8RGvcckzOe1e8dAj8oW6w=w480-h960",
+    "image": "https://i.ibb.co.com/DDzMxFZD/download-3.jpg",
     "title": "Snaply",
     "companyName": "Snap Innovations",
     "description": "Capture moments, chat with friends, and share stories creatively.",
@@ -235,7 +235,7 @@
   },
   {
     "id": 14,
-    "image": "https://play-lh.googleusercontent.com/nJgHKm-1YbVtdjD6K95e7jHuE1E-SRANRwSBQ6lXjUMZgxEoYnbtUoPztCKcVw9VWw=w480-h960",
+    "image": "https://i.ibb.co.com/21WSMkT8/download-4.jpg",
     "title": "Melodify",
     "companyName": "SoundTech",
     "description": "Stream your favorite music, podcasts, and curated playlists.",
@@ -253,7 +253,7 @@
   },
   {
     "id": 15,
-    "image": "https://play-lh.googleusercontent.com/5bYZwuxv0NYcmvM8fTllnVQ8sWybWnQw2jM8wU6hN5gVhW0kLt2Vxmt0QklEyyRDNxM=w480-h960",
+    "image": "https://i.ibb.co.com/TM58ysnd/d65ee83bb86989306f2cf92a58d08743.jpg",
     "title": "TeamConnect",
     "companyName": "MicroSoft Solutions",
     "description": "Chat, meet, and collaborate securely with your team anytime.",
@@ -271,7 +271,7 @@
   },
   {
     "id": 16,
-    "image": "https://play-lh.googleusercontent.com/3lm8nBoCqNPEWPG5wEif5Z9vQv0Jkt0g49yIUZCeHQ6jzAbixD6ZJKhYtMfMTcTnNQ=w480-h960",
+    "image": "https://i.ibb.co.com/4Rj023cY/59c7d5c1087c9a8e8db6eefec643553c.jpg",
     "title": "ProNet",
     "companyName": "Linked Labs",
     "description": "Build your professional network, discover opportunities, and connect with peers.",
@@ -289,7 +289,7 @@
   },
   {
     "id": 17,
-    "image": "https://play-lh.googleusercontent.com/Uv7nhj3WJbnzJ_zT7Smb1Lw6ml8ee31rTEtGHUVvdQZpAa5k0kpG6ZIk9CUF6VyxgG8=w480-h960",
+    "image": "https://i.ibb.co.com/tGzrBhN/1d00496cc343e10863ece13c302cd68f.jpg",
     "title": "ChirpX",
     "companyName": "X Network",
     "description": "Stay connected with your interests, news, and global conversations.",
@@ -307,7 +307,7 @@
   },
   {
     "id": 18,
-    "image": "https://play-lh.googleusercontent.com/OW_gDxt4szj9H4x4B2V6_8EryqzQk4h8qXCTCOWg6h1MfIQ_zW5clvMNicrMaH3lFA=w480-h960",
+    "image": "https://i.ibb.co.com/4wWHMN2r/unnamed-9.webp",
     "title": "CloudKeep",
     "companyName": "Google Storage",
     "description": "Store, share, and collaborate on files securely in the cloud anytime.",
@@ -325,7 +325,7 @@
   },
   {
     "id": 19,
-    "image": "https://play-lh.googleusercontent.com/CFKozfH8xB5PKpITyP5Uv2iQmMl4-3kS9lreIE6i3ecL6pbx3M4t0QhA1mD-MZ5Tqg=w480-h960",
+    "image": "https://i.ibb.co.com/7N4BZ9mj/cb180a47d67b33e4df4f2b119367cce8.jpg",
     "title": "TuneTube",
     "companyName": "Google Music",
     "description": "Stream official songs, albums, and personalized playlists on the go.",
@@ -343,7 +343,7 @@
   },
   {
     "id": 20,
-    "image": "https://play-lh.googleusercontent.com/WYzUrt1nZ8j-JZb2o-wUiG4NJq_BxCk-3Vv-uZ9iDwmGUmxtN3kxlbZDgN8R-1M-i3vA=w480-h960",
+    "image": "https://i.ibb.co.com/Qjfn0gRk/unnamed.webp",
     "title": "StreamHub",
     "companyName": "Hulu Media",
     "description": "Watch TV shows, movies, and original content with your subscription.",
@@ -361,7 +361,7 @@
   },
   {
     "id": 21,
-    "image": "https://play-lh.googleusercontent.com/gzOXIqsWJ8j-4XQ3WV-9Z518Y_g8DzK4uT8JY6UGeZq7L9zl-k1j-JTUZDHf65K-K44Q=w480-h960",
+    "image": "https://i.ibb.co.com/cSrCsz5W/unnamed-1.webp",
     "title": "TaskBoard",
     "companyName": "Atlassian Labs",
     "description": "Plan, organize, and collaborate on projects efficiently with boards and cards.",
@@ -379,7 +379,7 @@
   },
   {
     "id": 22,
-    "image": "https://play-lh.googleusercontent.com/q9x6mYWYKOFpn0zR-jDZ-mY4Yc-kMlo0-Yn6kOXuU1jT5QGizkl-iVzS3gn9EJVkccA=w480-h960",
+    "image": "https://i.ibb.co.com/Xf6g8TZ5/unnamed-2.webp",
     "title": "PodCaster",
     "companyName": "Shifty Media",
     "description": "Stream, download, and enjoy your favorite podcasts effortlessly.",
@@ -397,7 +397,7 @@
   },
   {
     "id": 23,
-    "image": "https://play-lh.googleusercontent.com/GHhuVf_sO3K-pD1Gi3ZF3drF2u3i0VX0hNad14f2pFlHIj5t7iDpi6GfaJTKyOrtdng=w480-h960",
+    "image": "https://i.ibb.co.com/Z1XHM1sF/unnamed-3.webp",
     "title": "ReadPocket",
     "companyName": "Mozilla Media",
     "description": "Save articles, videos, and stories to view later anytime, anywhere.",
@@ -415,7 +415,7 @@
   },
   {
     "id": 24,
-    "image": "https://play-lh.googleusercontent.com/o4QxE3iJbLXYi-2QwDAdemRuYEd0sGb0h-y-vOULY1gX8_VfrJ-EiXzrSLPmkb9pM24E=w480-h960",
+    "image": "https://i.ibb.co.com/zHFPvGQh/unnamed-4.webp",
     "title": "BoxCloud",
     "companyName": "Dropbox Labs",
     "description": "Store and access your files, photos, and videos from anywhere easily.",
@@ -433,7 +433,7 @@
   },
   {
     "id": 25,
-    "image": "https://play-lh.googleusercontent.com/8w-p2B3K9ejLhu6n-pA_X1YZ6zZ6BP8BJEBKJsR4xH1uiH6gkGhFv1F6Zn-x8-bMssA=w480-h960",
+    "image": "https://i.ibb.co.com/JjC1qMRn/unnamed-5.webp",
     "title": "SafeChat",
     "companyName": "Signal Labs",
     "description": "Secure, fast, and private messaging with simple interface and encryption.",
@@ -451,7 +451,7 @@
   },
   {
     "id": 26,
-    "image": "https://play-lh.googleusercontent.com/tVD-9uGm3z6Yb0QlNqIw-uDC7Z2Ej-hRfX3O9lJg-hZJG-z-R-mBGLf-_Pyubn_Xg=w480-h960",
+    "image": "https://i.ibb.co.com/vxSTbmwb/unnamed-6.webp",
     "title": "Redditor",
     "companyName": "Reddit Labs",
     "description": "Explore trending news, join communities, and share your thoughts easily.",
@@ -469,7 +469,7 @@
   },
   {
     "id": 27,
-    "image": "https://play-lh.googleusercontent.com/uWimOGZWvdY-uMJyO-GaWXa-plFDZB-xI-8YzaF_H6_fP2BDvG-K2DxiMx1R-Vb1PpQ=w480-h960",
+    "image": "https://i.ibb.co.com/hJjDYLqj/unnamed-7.webp",
     "title": "PhotoSphere",
     "companyName": "Mammoth Labs",
     "description": "Upload, share, and explore photos and videos with a global photography community.",
@@ -487,7 +487,7 @@
   },
   {
     "id": 28,
-    "image": "https://play-lh.googleusercontent.com/Zkish8Q_9Hy-PvzK5wyETlPcV0FW6-xxK-IifCEufZkNiybBI-9DvZyUuZ_JXK34uoKw=w480-h960",
+    "image": "https://i.ibb.co.com/3mpx4nRV/unnamed-8.webp",
     "title": "LockVault",
     "companyName": "BitSecure Inc.",
     "description": "Manage and secure your passwords, credentials, and digital identity safely.",

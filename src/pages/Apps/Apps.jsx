@@ -2,7 +2,10 @@ import React, { Suspense } from "react";
 import App from "../App/App";
 import { Link } from "react-router";
 
+
 const Apps = ({ data }) => {
+  
+  
   return (
     <div>
       <div className="text-center mt-10 mx-auto mb-10">
