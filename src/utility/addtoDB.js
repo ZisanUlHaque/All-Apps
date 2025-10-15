@@ -1,30 +1,39 @@
 import { toast } from "react-toastify";
 
-const getStroedApp = () =>{
-    const storeAPP = localStorage.getItem('installList')
+// ✅ Get installed app IDs from localStorage
+const getStroedApp = () => {
+  const storeAPP = localStorage.getItem("installList");
+  if (storeAPP) {
+    return JSON.parse(storeAPP);
+  } else {
+    return [];
+  }
+};
 
-    if(storeAPP){
-        const storeAPPData = JSON.parse(storeAPP);
-        return storeAPPData;
-    }
-    else{
-        return [];
-    }
-}
+// ✅ Add new app ID to localStorage with toast
+const addToStoredDB = (id, appTitle) => {
+  const storeAPPData = getStroedApp();
 
-const addToStoredDB = (id) =>{
-    const storeAPPData = getStroedApp();
+  if (storeAPPData.includes(id)) {
+    toast.info(`"${appTitle}" is already installed`, {
+      position: "top-center",
+      autoClose: 2000,
+      theme: "colored",
+    });
+  } else {
+    storeAPPData.push(id);
+    localStorage.setItem("installList", JSON.stringify(storeAPPData));
 
-    if(storeAPPData.includes(id)){
-        toast('ID exist')
-    }
-    else{
-        storeAPPData.push(id);
-        
-        const data = JSON.stringify(storeAPPData);
-        localStorage.setItem('installList',data)
-    }
+    toast.success(`"${appTitle}" installed successfully! 🎉`, {
+      position: "top-center",
+      autoClose: 2500,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      theme: "colored",
+    });
+  }
+};
 
-}
-
-export {addToStoredDB, getStroedApp};
+export { addToStoredDB, getStroedApp };
